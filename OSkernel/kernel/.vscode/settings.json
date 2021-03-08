@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "kernel.h": "c",
+        "am.h": "c",
+        "klib.h": "c",
+        "klib-macros.h": "c",
+        "*.tcc": "c",
+        "istream": "c",
+        "ostream": "c",
+        "typeinfo": "c",
+        "unordered_map": "c",
+        "fstream": "c",
+        "sstream": "c",
+        "atomic": "cpp",
+        "cstddef": "cpp",
+        "cwchar": "cpp",
+        "string": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp",
+        "utility": "cpp",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c"
+    }
+}

@@ -1,0 +1,4 @@
+*.o
+*.d
+kernel-native
+kernel-x86_64-qemu
